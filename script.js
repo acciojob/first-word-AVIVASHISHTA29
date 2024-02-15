@@ -1,4 +1,5 @@
-function firstWord(s) {
+function firstWord(s) 
+{
   // your code here
 	return s.split(" ")[0];
 }
